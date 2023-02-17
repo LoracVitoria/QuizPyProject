@@ -1,0 +1,335 @@
+{
+    "quiz":
+    [
+        {
+            "enunciado":"MySQL refere-se a:",
+            "tipo": 0,
+            "opcoes":
+            [
+                {
+                    "alternativa":"a", 
+                    "conteudo":"tipo de linguagem", 
+                    "correta":false
+                },
+                {
+                    "alternativa":"b", 
+                    "conteudo":"tipo de invasão cibernética", 
+                    "correta":false
+                },
+                {
+                    "alternativa":"c", 
+                    "conteudo":"tipo de banco de dados", 
+                    "correta":true
+                },
+                {
+                    "alternativa":"d", 
+                    "conteudo":"sistema de engranagem", 
+                    "correta":false
+                }
+            ]
+        },
+        {
+            "enunciado":"É um tipo de computador que tem como função controlar as demais estações de trabalho quando ligados em uma rede de computadores:",
+            "tipo": 0,
+            "opcoes":
+            [
+                {
+                    "alternativa":"a", 
+                    "conteudo":"servidor", 
+                    "correta":true
+                },
+                {
+                    "alternativa":"b", 
+                    "conteudo":"cliente", 
+                    "correta":false
+                },
+                {
+                    "alternativa":"c", 
+                    "conteudo":"nobreak", 
+                    "correta":false
+                },
+                {
+                    "alternativa":"d", 
+                    "conteudo":"cloud computing", 
+                    "correta":false
+                }
+            ]
+        },
+        {
+            "enunciado":"Qual marcação é usada no código para informar a presença de sobrescrita de métodos?",
+            "tipo": 0,
+            "opcoes":
+            [
+                {
+                    "alternativa":"a",
+                    "conteudo":"overwrite",
+                    "correta":false
+                },
+                {
+                    "alternativa":"b",
+                    "conteudo":"override",
+                    "correta":true
+                },
+                {
+                    "alternativa":"c",
+                    "conteudo":"loadwrite",
+                    "correta":false
+                },
+                {
+                    "alternativa":"d",
+                    "conteudo":"rideload",
+                    "correta":false
+                }
+            ]
+        },
+        {
+            "enunciado":"O java permite que você tenha métodos com o mesmo nome e parâmetros idênticos, mas alterando em seu corpo, ou seja, em seu código, de acordo com a necessidade. Isso diz respeito a:",
+            "tipo": 0,
+            "opcoes":
+            [
+                {
+                    "alternativa":"a",
+                    "conteudo":"Sobrescrita",
+                    "correta":true
+                },
+                {
+                    "alternativa":"b",
+                    "conteudo":"Abstração",
+                    "correta":false
+                },
+                {
+                    "alternativa":"c",
+                    "conteudo":"Sobrecarga",
+                    "correta":false
+                },
+                {
+                    "alternativa":"d",
+                    "conteudo":"Encapsulamento",
+                    "correta":false
+                }
+            ]
+        },
+        {
+            "enunciado":"Considere duas estruturas de dados, I e II, com as seguintes características típicas:\nI. O PRIMEIRO elemento a ser inserido é o PRIMEIRO a ser retirado.\nII. O PRIMEIRO elemento a ser inserido é o ÚLTIMO a ser retirado.\nAs estruturas I e II são, respectivamente, dos tipos",
+            "tipo": 0,
+            "opcoes":
+            [
+                {
+                    "alternativa":"a",
+                    "conteudo":"Árvore e pilha.",
+                    "correta":false
+                },
+                {
+                    "alternativa":"b",
+                    "conteudo":"Árvore e fila.",
+                    "correta":false
+                },
+                {
+                    "alternativa":"c",
+                    "conteudo":"Fila e Árvore.",
+                    "correta":false
+                },
+                {
+                    "alternativa":"d",
+                    "conteudo":"Fila e Pilha.",
+                    "correta":true
+                }
+            ]
+        },
+         {
+            "enunciado":"O evento blur, na linguagem JavaScript, é executado toda vez que: ",
+            "tipo": 1,
+            "opcoes":
+            [
+                {
+                    "alternativa":"a",
+                    "conteudo":"Um campo perde o foco.",
+                    "correta":true
+                },
+                {
+                    "alternativa":"b",
+                    "conteudo":"A tela fica desfocada impossibilitando enxergá-la.",
+                    "correta":false
+                },
+                {
+                    "alternativa":"c",
+                    "conteudo":"O método onfocus não está ativo em um fórmulário.",
+                    "correta":true
+                },
+                {
+                    "alternativa":"d",
+                    "conteudo":"Ocorre uma transição de imagens.",
+                    "correta":true
+                }
+            ]
+        },
+        {
+        "enunciado":"São características de um software livre: ",
+        "tipo": 1,
+        "opcoes":
+        [
+            {
+                "alternativa":"a",
+                "conteudo":"O usuário pode executar o software, para qualquer uso.",
+                "correta":true
+            },
+            {
+                "alternativa":"b",
+                "conteudo":"Existe a liberdade de estudar o funcionamento do programa e de adaptá-lo às suas necessidades.",
+                "correta":true
+            },
+            {
+                "alternativa":"c",
+                "conteudo":"Não é permitido redistribuir cópias.",
+                "correta":false
+            },
+            {
+                "alternativa":"d",
+                "conteudo":"Possui livre acesso ao código-fonte.",
+                "correta":true
+            }
+        ]
+        },
+        {
+            "enunciado":"São sistemas operacionais:",
+            "tipo": 1,
+            "opcoes":
+            [
+                {
+                    "alternativa":"a",
+                    "conteudo":"Windows.",
+                    "correta":true
+                },
+                {
+                    "alternativa":"b",
+                    "conteudo":"Macintosh.",
+                    "correta":true
+                },
+                {
+                    "alternativa":"c",
+                    "conteudo":"Fedora.",
+                    "correta":true
+                },
+                {
+                    "alternativa":"d",
+                    "conteudo":"Apple.",
+                    "correta":false
+                }
+            ]
+        },
+        {
+            "enunciado":"Sobre o gabinete do computador, assinale as alternativas corretas:",
+            "tipo": 1,
+            "opcoes":
+            [
+                {
+                    "alternativa":"a",
+                    "conteudo":"Gabinete e CPU são sinônimos.",
+                    "correta":false
+                },
+                {
+                    "alternativa":"b",
+                    "conteudo":"É a “caixa” do computador, onde ficam seus elementos (hardware).",
+                    "correta":true
+                },
+                {
+                    "alternativa":"c",
+                    "conteudo":"Normalmente é um dispositivo que apresenta informações na tela de LCD, como um televisor atual.",
+                    "correta":false
+                },
+                {
+                    "alternativa":"d",
+                    "conteudo":"Ele pode ser horizontal ou vertical e nesse último caso, é chamado de torre.",
+                    "correta":true
+                }
+            ]
+        },
+        {
+            "enunciado":"São exemplos de eletrônicos de consumo e eletrodomésticos:",
+            "tipo": 1,
+            "opcoes":
+            [
+                {
+                    "alternativa":"a",
+                    "conteudo":"Vassoura.",
+                    "correta":false
+                },
+                {
+                    "alternativa":"b",
+                    "conteudo":"Narguile.",
+                    "correta":false
+                },
+                {
+                    "alternativa":"c",
+                    "conteudo":"Controle remoto.",
+                    "correta":true
+                },
+                {
+                    "alternativa":"d",
+                    "conteudo":"Aspirador de pó.",
+                    "correta":true
+                }
+            ]
+        },
+        {
+            "enunciado":"É um conjunto de programas que permite o funcionamento e utilização da máquina:",
+            "tipo": 2,
+            "opcoes":
+            [
+                {
+                    "alternativa":"software",
+                    "conteudo":"",
+                    "correta":true
+                }
+            ]
+        },
+        {
+            "enunciado":"USB é abreviação de:",
+            "tipo": 2,
+            "opcoes":
+            [
+                {
+                    "alternativa":"universal serial bus",
+                    "conteudo":"",
+                    "correta":true
+                }
+            ]
+        },
+        {
+            "enunciado":"É a área reservada para armazenar os dados mais acessados, permitindo assim uma performance mais rápida a esses:",
+            "tipo": 2,
+            "opcoes":
+            [
+                {
+                    "alternativa":"cache",
+                    "conteudo":"",
+                    "correta":true
+                }
+            ]
+        },
+        {
+            "enunciado":"É um padrão de projeto que garante que uma classe tenha apenas uma instância:",
+            "tipo": 2,
+            "opcoes":
+            [
+                {
+                    "alternativa":"singleton",
+                    "conteudo":"",
+                    "correta":true
+                }
+            ]
+        },
+        {
+            "enunciado":"É um padrão estrutural utilizado para compatibilizar interfaces de modo que elas possam interagir:",
+            "tipo": 2,
+            "opcoes":
+            [
+                {
+                    "alternativa":"adapter",
+                    "conteudo":"",
+                    "correta":true
+                }
+            ]
+        }
+    ]
+}
